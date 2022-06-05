@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1654091356 source:f:\c++\circle\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<math.h>
+	<cmath>
+	<fstream>
+	<vector>
+	<list>
+	<stack>
+
